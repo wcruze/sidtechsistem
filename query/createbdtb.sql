@@ -26,7 +26,7 @@ PRIMARY KEY (`id`))
 ENGINE = InnoDB AUTO_INCREMENT=1 DEFAULT CHARSET=latin1;
 
 
--- Inserción de algunos registros en la tabla administradores
+-- Inserción de administrador en la tabla administradores
 INSERT INTO `dbempleos`.`usadministradores`
 (`nombre`,
 `pass`)
